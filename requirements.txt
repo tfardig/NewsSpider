@@ -1,0 +1,3 @@
+newspaper
+requests
+pymongo
